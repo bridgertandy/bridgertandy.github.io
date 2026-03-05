@@ -1,2 +1,2 @@
 # bridgertandy.github.io
-[Day Planner](/CWI_DayPlanner/)
+[Day Planner](/https://github.com/bridgertandy/CWI_DayPlanner/)
